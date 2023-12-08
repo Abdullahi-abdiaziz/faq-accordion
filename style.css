@@ -68,12 +68,14 @@ a {
 h1 {
   font-size: 50px;
   font-weight: 700;
+  color: var(--purple);
 }
 
 h3 {
   font-size: 16px;
   font-weight: 600;
   transition: 0.3s;
+  color: var(--purple);
 }
 
 h3:hover {
